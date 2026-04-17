@@ -1,1 +1,1 @@
-# BLURT Sign Up Landing Page
+# Blurt Sign Up Landing Page
